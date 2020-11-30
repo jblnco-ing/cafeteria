@@ -1,5 +1,5 @@
 # cafeteria
-Diseño web de muestra para una cafetería o panadería
+Diseño web de para una cafetería/panadería
 
 Puede visualizarlo desde el siguiente enlace: 
-<a>https://developersjj.github.io/cafeteria/<a/>
+<a>https://jblnco-ing.github.io/cafeteria/<a/>
